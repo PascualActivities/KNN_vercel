@@ -3,8 +3,8 @@
 KNN con los días simulados del Módulo 8, desplegado como API con FastAPI en Vercel.
 
 ## Enlaces
-- App: https://TU-PROYECTO.vercel.app
-- Documentación de la API: https://TU-PROYECTO.vercel.app/docs
+- App: [app](https://knn-vercel.vercel.app/)
+- Documentación de la API: [docs](https://knn-vercel.vercel.app/docs)
 
 ## Archivos
 | Archivo | Rol |
